@@ -1,6 +1,6 @@
 # Introduction
 
-I hate this project
+I quite like this project
 
 # Mechanics Involved
 
